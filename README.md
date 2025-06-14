@@ -1,2 +1,3 @@
-# skillhive-piapp
-Pi Network App for Microlearning &amp; Freelancing
+# SkillHive Pi App
+
+A Pi Network app for microlearning and freelance tasks.
